@@ -7,11 +7,7 @@ vue项目多入口项目实现
 
 npm install
 
-### 启动后台
-
-npm run start
-
-### 启动前端
+### 启动
 
 npm run dev
 
